@@ -1,0 +1,53 @@
+{
+  "profile":{
+  "name":"STICK JYOO",
+  "image":"images.jpg",
+  "email":"jyotshna21@gmail.com",
+  "mobile":"9246988988",
+  "Address":"PVP SIDDHARTHA"
+},
+"career":{
+  "info":"to pursue a challenging career and be a part of progressive organisation"
+},
+"education":[
+  {
+    "degree":"B-Tech",
+    "institute":"PVP",
+    "data":["2016-20","80%"]
+  },
+  {
+    "degree":"Intermediate",
+    "institute":"Sri Chaitanya Junior College",
+    "data":["20114-16","80%"]
+  },
+  {
+    "degree":"S.S.C",
+    "institute":"Sri Chaitanya Techno School",
+    "data":["2009-14","83%"]
+  }
+],
+"skills":[
+  {
+  "title":"programming language",
+  "info":["--c--","--c++","--java--","--data structures--"]
+},
+{
+  "title":"databases",
+    "info":["oracle","SQL"]
+},
+{
+  "title":"OS",
+  "info":["windows","MAC"]
+},
+{
+  "title":"WT",
+  "info":["CSS","JAVA SCRIPT","XML"]
+}
+],
+"achievements":[
+  {
+    "achieveData":"ppt"
+  }
+
+]
+}
